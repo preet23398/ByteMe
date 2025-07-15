@@ -1,0 +1,7 @@
+p,p,Admin
+k,k,Customer,,
+l,l,Admin
+m,m,Customer,,
+p,p,Admin
+gunika,g,Admin
+beas,b,Customer,,

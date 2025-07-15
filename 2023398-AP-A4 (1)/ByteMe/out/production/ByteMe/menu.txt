@@ -1,0 +1,2 @@
+chicken,90.0,true
+popcorn,10.0,false

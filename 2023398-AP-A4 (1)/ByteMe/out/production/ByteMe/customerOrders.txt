@@ -1,0 +1,3 @@
+k,gunika:3,
+m,beas:5,
+beas,chicken:3,
